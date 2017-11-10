@@ -1,0 +1,29 @@
+body{
+    text-align:  center;
+}
+
+div{
+    border: solid 1px black;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 37%;
+    height: 80px;
+    width: 80px;
+    display: table-cell;
+    padding: 0;
+}
+
+#bomb-it{
+    margin-left: 37%;
+    color: black;
+
+}
+
+.number{
+    margin: 0;
+    color:white;
+}
+
+.numberShow{
+    color: black;
+}
